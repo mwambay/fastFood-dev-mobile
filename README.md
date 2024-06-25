@@ -7,7 +7,7 @@ A Dev-mobile app built with [Jetpack Compose](https://developer.android.com/jetp
 
 | Home Screen 🌕                    | Menu Screen 🌕                    | Home Screen 🌑 | Menu Screen 🌑                   |
 |-----------------------------------|-----------------------------------| ---- |----------------------------------|
-| ![](images/beta.jpg) | ![](images/menu-screen-light.png) | ![](images/home-screen-dark.png) | ![](images/menu-screen-dark.png) |
+| ![](images/beta.jpg) | ![](images/menu-screen-light.png) | ![](images/beta.jpg) | ![](images/menu-screen-dark.png) |
 
 ## ✨ Features
 
